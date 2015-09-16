@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:16:42.752225
+#+DATE: 2015-08-30 20:16:43.348701
 #+TITLE: 注大乘入楞伽經
 #+PROPERTY: CBETA_ID T39n1791
 #+PROPERTY: ID KR6i0334
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 39, No. 1791
 #+PROPERTY: VOL 39
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@HARA
 #+PROPERTY: LASTPB <pb:KR6i0334_T_000-0433b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0334_T_010-0501a> ¶¶¶
 #+PROPERTY: JUAN 10
 ¶
 ¶
-
- 注大乘入楞伽經卷第十¶
+注大乘入楞伽經卷第十¶
 ¶
 
 煩惱業與身及業所得果(至)修行者不食　上¶
