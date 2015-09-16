@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:16:42.452003
+#+DATE: 2015-08-30 20:16:43.680422
 #+TITLE: 注大乘入楞伽經
 #+PROPERTY: CBETA_ID T39n1791
 #+PROPERTY: ID KR6i0334
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 39, No. 1791
 #+PROPERTY: VOL 39
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0334_T_000-0433b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0334_T_002-0441a> 
 #+PROPERTY: JUAN 2
 ¶
-
- 注大乘入楞伽經卷第二¶
+注大乘入楞伽經卷第二¶
 ¶
 
 云何象馬獸因何而捕取云何卑陋人願佛為¶
@@ -267,11 +266,7 @@
 學　此是結勸。諸菩薩等。應當如是學菩薩¶
 道。修菩薩行。舉先佛者。皆發明誠信故。¶
 
-3集一切法品(二-五)
-:PROPERTIES:
-:head: 大乘入楞伽經集一切法品第三
-:END:
-¶
+大乘入楞伽經集一切法品第三¶
 
 釋此品有四門。一來意二解妨難。三釋名。四¶
 釋文。初來意者。上品明總問答竟。此下諸品¶

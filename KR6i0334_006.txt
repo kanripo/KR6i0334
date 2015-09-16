@@ -1,19 +1,18 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:16:42.590553
+#+DATE: 2015-08-30 20:16:43.801671
 #+TITLE: 注大乘入楞伽經
 #+PROPERTY: CBETA_ID T39n1791
 #+PROPERTY: ID KR6i0334
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 39, No. 1791
 #+PROPERTY: VOL 39
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0334_T_000-0433b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0334_T_006-0472b> ¶¶¶¶¶
 #+PROPERTY: JUAN 6
 ¶
 ¶
-
- 注大乘入楞伽經卷第六(〔時〕)¶
+注大乘入楞伽經卷第六(〔時〕)¶
 ¶
 東都沙門(寶臣)集¶
 
@@ -264,7 +263,7 @@
 想。即能證入如來境界。言諦聽者聞慧也。善¶
 思者思慧也。念之者修慧也。佛將涅槃最後¶
 付囑。當遵四法則涅槃可證。一近善知識。二¶
-聽聞正法。三思唯其義。四如實修行。眾經¶
+聽聞正法。三思惟其義。四如實修行。眾經¶
 無量。行門不同。皆能證入。唯此圓門統攝眾¶
 行。故了義教多令諦聽。善思念之。¶
 
