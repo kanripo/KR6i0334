@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:16:42.523852
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:21
 #+TITLE: 注大乘入楞伽經
 #+PROPERTY: CBETA_ID T39n1791
 #+PROPERTY: ID KR6i0334
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 39, No. 1791
 #+PROPERTY: VOL 39
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0334_T_000-0433b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0334_T_004-0457a> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 4
 ¶
 ¶
-
- 注大乘入楞伽經卷第四¶
+注大乘入楞伽經卷第四¶
 ¶
 
 爾時大慧菩薩摩訶薩(至)成大修行　因上入¶

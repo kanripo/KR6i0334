@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:16:42.554473
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:21
 #+TITLE: 注大乘入楞伽經
 #+PROPERTY: CBETA_ID T39n1791
 #+PROPERTY: ID KR6i0334
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 39, No. 1791
 #+PROPERTY: VOL 39
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0334_T_000-0433b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0334_T_005-0464b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 5
 ¶
 ¶
-
- 注大乘入楞伽經卷第五¶
+注大乘入楞伽經卷第五¶
 ¶
 
 復次句身者如足跡(至)此名句文身相汝應修¶
@@ -698,11 +697,7 @@
 寶所。更起勝行集諸功德。後亦當得佛無上¶
 身。¶
 
-4佛心品(五-七)
-:PROPERTIES:
-:head: 佛心品第四
-:END:
-¶
+* 佛心品第四¶
 
 將釋此品義有三門。初敘來意。二釋品名。三¶
 釋經文　初來意者。上品通明心生滅門覺與¶
